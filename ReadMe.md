@@ -2,7 +2,7 @@
 
 This project is used to countdown Powerpoint Powerpoint via Winform.
 
-If you do not need source code, just download the `release` directory.
+If you do not need source code, just download the `release-zip` directory.
 
 Tips:
 
@@ -16,7 +16,7 @@ Tips:
 
 本项目是用于在PC上通过程序来控制Powerpoint程序来控制倒计时用的。
 
-如果您不需要源码，可以只下载release目录。下面有打包好的程序。
+如果您不需要源码，可以只下载`release-zip`目录。下面有打包好的程序。
 
 提示：
 
