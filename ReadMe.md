@@ -10,6 +10,8 @@ Tips:
 
 1. Please close other Powerpoint applications before using this program. Otherwise it may cause exceptions.
 
+1. Please close the speaker view, otherwise the program will become abnormal.
+
 1. This document also needs to complete.
 
 # PPT倒计时-winform控制
@@ -23,5 +25,7 @@ Tips:
 1. 请预先设置好Powerpoint想要在哪一块屏幕上显示倒计时界面。
 
 1. 请在使用本程序前关闭其他的Powerpoint应用程序。否则可能导致异常。
+
+1. 请您关闭演讲者视图，不然程序工作会变得不正常。
 
 1. 本文档还等待补充完善。
